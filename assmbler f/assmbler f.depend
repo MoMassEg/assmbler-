@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1733728344 source:c:\users\lenovo\documents\assmbler\assmbler f\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<sstream>
+	<vector>
+	<unordered_map>
+	<stdexcept>
+	<bitset>
+
